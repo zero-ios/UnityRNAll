@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/unityrnmodule/libs/react-native-0.58.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

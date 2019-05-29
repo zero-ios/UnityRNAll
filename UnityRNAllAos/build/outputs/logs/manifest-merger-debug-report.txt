@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-40:12
+MERGED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:17:1-27:12
+MERGED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:2:1-15:12
+MERGED from [soloader-0.6.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f61d65b43b7ac76fa20d46f7c974d425/AndroidManifest.xml:2:1-13:12
+MERGED from [support-v4-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/AndroidManifest.xml:17:1-24:12
+MERGED from [android-jsc-r174650.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ad2476c74bb9dca6ac82b177d8a7f0c8/AndroidManifest.xml:1:1-3:12
+MERGED from [imagepipeline-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0e5184dd19f305fd0322070d5402d7c8/AndroidManifest.xml:2:1-9:12
+MERGED from [imagepipeline-base-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/52c60e7fa587d9a1df3b86d0505069c5/AndroidManifest.xml:2:1-9:12
+MERGED from [fresco-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/fecce2e24ed514510a41c53d761d7bb8/AndroidManifest.xml:2:1-9:12
+MERGED from [imagepipeline-okhttp3-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/38931d946811b39b051fedf0b87f75fe/AndroidManifest.xml:2:1-9:12
+MERGED from [drawee-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aecbcec682f8efde7dc2bfafb3b9aaa3/AndroidManifest.xml:2:1-9:12
+MERGED from [fbcore-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/26c2e6e633b73c81e96480ff0b4e5a34/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:70-102
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:103-149
+	android:versionCode
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:150-190
+supports-screens
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-38:19
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-38:19
+MERGED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:25:5-20
+MERGED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:25:5-20
+MERGED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:13:5-20
+MERGED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:13:5-20
+MERGED from [soloader-0.6.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f61d65b43b7ac76fa20d46f7c974d425/AndroidManifest.xml:11:5-20
+MERGED from [soloader-0.6.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f61d65b43b7ac76fa20d46f7c974d425/AndroidManifest.xml:11:5-20
+MERGED from [support-v4-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/AndroidManifest.xml:22:5-20
+MERGED from [support-v4-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/AndroidManifest.xml:22:5-20
+MERGED from [android-jsc-r174650.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ad2476c74bb9dca6ac82b177d8a7f0c8/AndroidManifest.xml:2:3-17
+MERGED from [android-jsc-r174650.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/ad2476c74bb9dca6ac82b177d8a7f0c8/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:90-122
+	android:allowBackup
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:4:123-144
+	android:usesCleartextTraffic
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:9-44
+activity#com.tenvine.UnityRNAll.UnityPlayerActivity
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:87-118
+	android:hardwareAccelerated
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:301-336
+	android:configChanges
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:119-300
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:5:337-394
+meta-data#unity.build-id
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:21:17-80
+uses-sdk
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:21:5-23:78
+MERGED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:21:5-23:78
+MERGED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:7:5-9:41
+MERGED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:7:5-9:41
+MERGED from [soloader-0.6.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f61d65b43b7ac76fa20d46f7c974d425/AndroidManifest.xml:7:5-9:41
+MERGED from [soloader-0.6.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/f61d65b43b7ac76fa20d46f7c974d425/AndroidManifest.xml:7:5-9:41
+MERGED from [support-v4-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/AndroidManifest.xml:20:5-43
+MERGED from [support-v4-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/AndroidManifest.xml:20:5-43
+MERGED from [imagepipeline-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0e5184dd19f305fd0322070d5402d7c8/AndroidManifest.xml:5:5-7:41
+MERGED from [imagepipeline-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0e5184dd19f305fd0322070d5402d7c8/AndroidManifest.xml:5:5-7:41
+MERGED from [imagepipeline-base-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/52c60e7fa587d9a1df3b86d0505069c5/AndroidManifest.xml:5:5-7:41
+MERGED from [imagepipeline-base-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/52c60e7fa587d9a1df3b86d0505069c5/AndroidManifest.xml:5:5-7:41
+MERGED from [fresco-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/fecce2e24ed514510a41c53d761d7bb8/AndroidManifest.xml:5:5-7:41
+MERGED from [fresco-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/fecce2e24ed514510a41c53d761d7bb8/AndroidManifest.xml:5:5-7:41
+MERGED from [imagepipeline-okhttp3-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/38931d946811b39b051fedf0b87f75fe/AndroidManifest.xml:5:5-7:41
+MERGED from [imagepipeline-okhttp3-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/38931d946811b39b051fedf0b87f75fe/AndroidManifest.xml:5:5-7:41
+MERGED from [drawee-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aecbcec682f8efde7dc2bfafb3b9aaa3/AndroidManifest.xml:5:5-7:41
+MERGED from [drawee-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/aecbcec682f8efde7dc2bfafb3b9aaa3/AndroidManifest.xml:5:5-7:41
+MERGED from [fbcore-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/26c2e6e633b73c81e96480ff0b4e5a34/AndroidManifest.xml:5:5-7:41
+MERGED from [fbcore-1.10.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/26c2e6e633b73c81e96480ff0b4e5a34/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [appcompat-v7-23.4.0.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/282c9bd7a9a22c5750a75e99989a099e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		ADDED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+		INJECTED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:22-77
+activity#com.tenvine.unityrnmodule.MainActivity
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:9-30:20
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:13-25:29
+action#android.intent.action.MAIN
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:17-86
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:27-83
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:13-29:40
+	android:value
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:29:17-37
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:17-57
+activity#com.tenvine.unityrnmodule.RegionActivity
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31:9-34:20
+	android:theme
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:13-68
+activity#com.tenvine.unityrnmodule.RNActivity
+ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:35:9-37:72
+	android:theme
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [:unityrnmodule] /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/unityrnmodule/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:36:13-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [react-native-0.58.6.aar] /Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/0b73ac4a62d2ef58d7dd3503638cd197/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/src/main/AndroidManifest.xml:2:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

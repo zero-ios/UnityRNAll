@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3C005499-184F-8A14-E3F6-FDE4C62B6BD2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewClass.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main.cs" Line="52" Column="41" />
+      <File FileName="Assets/Scripts/NewClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

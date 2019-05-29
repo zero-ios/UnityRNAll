@@ -1,0 +1,2 @@
+/Users/zerowolfhwang/Unity/UnityRNAll/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/zerowolfhwang/Unity/UnityRNAll/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

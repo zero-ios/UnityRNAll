@@ -1,0 +1,4 @@
+#Wed May 29 17:01:21 CST 2019
+base.0=/Users/zerowolfhwang/Unity_RN_Region/UnityRNAll/UnityRNAllAos/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

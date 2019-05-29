@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/zerowolfhwang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/jars/libs/internal_impl-23.4.0.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/dc2d997482505cccdf578287ef888ee1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
